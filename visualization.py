@@ -14,5 +14,5 @@ def visualizacion_3D(matrix): # Representa la matriz en 3D
     plt.show()
 
 def visualizacion_2D(matrix): # Representa la matriz en 2D
-    plt.matshow(matrix)
+    plt.matshow(matrix, cmap='terrain')
     plt.show()
