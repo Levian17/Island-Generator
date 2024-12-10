@@ -19,3 +19,29 @@ El archivo options_gui.py actua como main, tras su ejecución se tiene acceso a 
 
 Preview
 ---
+
+Visualización 2D con 1 nodo:
+
+![screenshot](images/2D_1.png)
+
+
+Visualización 2D con 2 nodos:
+
+![screenshot](images/2D_2.png)
+
+
+Visualización 2D con 6 nodos:
+
+![screenshot](images/2D_3.png)
+
+Visualización 3D con 1 nodo, 150 de tamaño:
+
+![screenshot](images/3D_1.gif)
+
+Visualización 3D con 1 nodo, 70 de tamaño:
+
+![screenshot](images/3D_2.gif)
+
+Visualización 3D con 3 nodos, 170 de tamaño:
+
+![screenshot](images/3D_3.gif)
